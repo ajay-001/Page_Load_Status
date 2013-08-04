@@ -1,7 +1,7 @@
 Page_Loading_Status
 ===================
 
-A very simple 'page loading' indicator. 
+A simple 'page loading' indicator. 
 
 ##Usage
 
