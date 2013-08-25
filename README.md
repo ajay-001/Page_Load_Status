@@ -1,4 +1,4 @@
-Page_Loading_Status
+pageLoadingStatus.js
 ===================
 
 A simple 'page loading' indicator. 
@@ -7,4 +7,6 @@ A simple 'page loading' indicator.
 
 *This should be called in your 'document.ready()' function or equivalent.*
 
+```
 $.loadingStatus();
+```
